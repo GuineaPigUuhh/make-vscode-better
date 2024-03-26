@@ -2,6 +2,10 @@
 
 It's a list of things you can improve and put in vscode
 
+<p align="center">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" width=300 />
+</p>
+
 ## Getting Started
 
 ### **Changing fonts:**
